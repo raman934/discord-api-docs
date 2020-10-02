@@ -75,7 +75,7 @@ Some of our APIs allow the submission of content. Discord does not acquire any o
  
 ## b. Attribution
 
-You agree to display any attribution(s) required by Discord as described in the documentation for the API. Discord hereby grants to you a nontransferable, nonsublicenseable, nonexclusive license while the Terms are in effect to display Discord’s Brand Features for the purpose of promoting or advertising that you use the APIs. You must only use the Discord Brand Features in accordance with the Terms and for the purpose of fulfilling your obligations under this Section. In using Discord’s Brand Features, you must follow the [Discord Brand Features Use Guidelines](https://discord.com/branding). You understand and agree that Discord has the sole discretion to determine whether your attribution(s) and use of Discord's Brand Features are in accordance with the above requirements and guidelines.
+You agree to display any attribution(s) required by Discord as described in the documentation for the API. Discord hereby grants to you a non-transferable, non-sublicenseable, non-exclusive license while the Terms are in effect to display Discord’s Brand Features for the purpose of promoting or advertising that you use the APIs. You must only use the Discord Brand Features in accordance with the Terms and for the purpose of fulfilling your obligations under this Section. In using Discord’s Brand Features, you must follow the [Discord Brand Features Use Guidelines](https://discord.com/branding). You understand and agree that Discord has the sole discretion to determine whether your attribution(s) and use of Discord's Brand Features are in accordance with the above requirements and guidelines.
 
 ## c. Publicity
 
